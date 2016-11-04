@@ -1,3 +1,5 @@
+This will be my blog template
+
 This repository is no longer maintained. 
 ============
 
