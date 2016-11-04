@@ -12,12 +12,6 @@ disqus: diqus-username
 
 ##Make sure to edit the above fields, especially for disqus.
 
-
-highlighter: pygments
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables"]
-
 defaults:
   - scope:
       path: ""
